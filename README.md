@@ -30,5 +30,6 @@ The data is about whether a client has payment difficulties.
 
 
 ### you can downloaded the dataset from here 
+https://drive.google.com/drive/folders/1Ag_N9qeWciT4ZrX1ZxH_7k8Ct1QggvBK?usp=sharing
 
 
